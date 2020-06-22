@@ -1,0 +1,9 @@
+The Tradus Challenge consists in creating a Machine Learning model able to accurately predict apartment price given a set of attributes defining the property. 
+
+In order to accomplish the task, you will build a model using whatever programming language you are comfortable with (preferably Python). Notice that your task will be assessed taking into consideration not only the final accuracy of the model, but also decisions made along the way and programming style.
+
+The dataset to train the model can be found in the attached CSV file (tradus_challenge_data.csv)
+
+To succeed in this challenge, you will be given 5 working days to submit your deliverable, which is going to be the code to train and/or validate the model. Please, be explicit with the decisions you make.
+
+Good luck and happy coding!
